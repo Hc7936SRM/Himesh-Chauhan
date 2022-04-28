@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main()
+{
+int r,h;
+float V;
+scanf("%d%d",&r,&h);
+V= (3.14*r*r*h)/3
+printf("Volume of Cone:%f",V);
+return 0;
+}
